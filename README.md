@@ -1,20 +1,14 @@
-
 # Olá, Eu sou Eduardo Mello!
 ### Dev Web FullSatck
 
-<div align="center">
 Dev por paixão a tecnologia, casado e pai de três princesas. Intusiasta em ver tecnologia em tudo, tenho uma vontade de transformar o meu entorno com a tecnologia!
 Sou apaixonado pelo aprendizado, estou sempre aprendendo algo novo. No momento olhando para o paerfeiçoamento em Java de forma assincrona, aprendendo o Spring Web Flux.
 Espero poder somar com a comunidade Tech sempre, Obrigado a comunidade DIO por me receber tão bem!
-</div>
 
-<div align="center">
 ## Github Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardomellog&theme=dracula&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff6e96&text_color=FFF)
-</div>
 
-<div align="center">
 ## Tech Stack mais usadas:
 
 **Front-end:** HTML, CSS e JS; React;
@@ -22,15 +16,13 @@ Espero poder somar com a comunidade Tech sempre, Obrigado a comunidade DIO por m
 **Back-end:** Java - Spring Boot; Node JS; Python;
 
 **BD's:** MySQL e MongoDB;
-</div>
 
-<div align="center">
+
 ## Linguagens mais utilizadas:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardomellog&layout=compact&bg_color=282a36&border_color=30A3DC&title_color=ff6e96&text_color=FFF)
-</div>
 
-<div align="center">
+
 ## Principais Repositórios:
 
 #### Bluefood
@@ -47,15 +39,13 @@ App web do tipo To Do. Backend feito em Java com Framework Spring Boot e o Front
 Frontend com React Hook's citado acima.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardomellog&repo=FrontEndBlueTasksWithHooks&theme=dracula&border_color=30A3DC&show_icons=true&icon_color=30A3DC)](https://github.com/eduardomellog/FrontEndBlueTasksWithHooks)
-</div>
 
-<div align="center">
+
 ### Resumo:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eduardomellog&theme=dracula&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-</div>
 
-<div align="center">
+
 ## 🔗 Entre em contato comigo!!
 
 Abaixo seguem os link's para você entrar em contato comigo, tirar alguma dúvida, fazer networking, fazer convite para algum projeto ..
@@ -68,14 +58,12 @@ Abaixo seguem os link's para você entrar em contato comigo, tirar alguma dúvid
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=whatsapp)](https://contate.me/deveduardomello)
 
-</div>
-
 ##
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eduardomellog/eduardomellog/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
