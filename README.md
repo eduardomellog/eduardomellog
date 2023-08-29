@@ -21,30 +21,53 @@ Espero poder somar com a comunidade Tech sempre, Obrigado a comunidade DIO por m
 <h2> 🥇 Tech's mais utilizadas 🥇 </h2>
 </div>
 
-**Front-end:** HTML, CSS e JS; React;
+<div align="center">
+  
+Backend:
+  
+  ![Static Badge](https://img.shields.io/badge/-Java-%23000?logo=openjdk)
+  ![Static Badge](https://img.shields.io/badge/-Springboot-%23000?logo=springboot)
+  ![Static Badge](https://img.shields.io/badge/-NodeJS-%23000?logo=nodedotjs)
+  ![Static Badge](https://img.shields.io/badge/-Python-%23000?logo=python)
+  
+Frontend:
 
-**Back-end:** Java - Spring Boot; Node JS; Python;
+  ![Static Badge](https://img.shields.io/badge/-HTML5-%23000?logo=html5)
+  ![Static Badge](https://img.shields.io/badge/-CSS3-%23000?logo=css3)
+  ![Static Badge](https://img.shields.io/badge/-Javascript-%23000?logo=javascript)
+  ![Static Badge](https://img.shields.io/badge/-ReactJS-%23000?logo=react)
+  
+Banco de dados:
 
-**BD's:** MySQL e MongoDB;
+  ![Static Badge](https://img.shields.io/badge/-MySQL-%23000?logo=mysql)
+  ![Static Badge](https://img.shields.io/badge/-MongoDB-%23000?logo=mongodb)
+
+</div>
+
+<br/>
+
+<div align="center">
   
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardomellog&layout=compact&bg_color=282a36&border_color=30A3DC&title_color=ff6e96&text_color=FFF)
+
+</div>
 
 <br/>
 <div align="center">
 <h2> 🌐 Principais Repositórios 🌐 </h2>
 </div>
 
-#### Bluefood
+### Bluefood
 Sistema inspirado no **Ifood**, desenvolvimento dos protótipos de tela em HTML, CSS e Javascript. Backend criado em Java com Spring boot como framewwork para potencializar o desenvolvimento, segurança feita com a utilização de token JWT. Após a conclusão do Backend, o Frontend foi recriado utilizando um framework chamado thymeleaf.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardomellog&repo=Bluefood-sistemaWeb&theme=dracula&border_color=30A3DC&show_icons=true&icon_color=30A3DC)](https://github.com/eduardomellog/Bluefood-sistemaWeb)
 
-#### Bluetasks
+### Bluetasks
 App web do tipo To Do. Backend feito em Java com Framework Spring Boot e o Front feito em React. Depois foi refeito o Front utilizando as técnicas chamadas React Hook's.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardomellog&repo=BackEndBluetasks&theme=dracula&border_color=30A3DC&show_icons=true&icon_color=30A3DC)](https://github.com/eduardomellog/BackEndBluetasks)
 
-#### Frontend Bluetasks com Hook's
+### Frontend Bluetasks com Hook's
 Frontend com React Hook's citado acima.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardomellog&repo=FrontEndBlueTasksWithHooks&theme=dracula&border_color=30A3DC&show_icons=true&icon_color=30A3DC)](https://github.com/eduardomellog/FrontEndBlueTasksWithHooks)
