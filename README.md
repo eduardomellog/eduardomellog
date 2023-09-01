@@ -1,9 +1,15 @@
 # Olá, Eu sou Eduardo Mello!
 ### Dev Web FullSatck
-
+  
 Dev por paixão a tecnologia, casado e pai de três princesas. Intusiasta em ver tecnologia em tudo, tenho uma vontade de transformar o meu entorno com a tecnologia!
 Sou apaixonado pelo aprendizado, estou sempre aprendendo algo novo. No momento olhando para o paerfeiçoamento em Java de forma assincrona, aprendendo o Spring Web Flux.
 Espero poder somar com a comunidade Tech sempre, Obrigado a comunidade DIO por me receber tão bem!
+
+<div align="center">
+  
+<img src="https://github.com/eduardomellog/eduardomellog/assets/93284927/6a88ebfe-caf7-4487-8c92-e720a1eb936e" width="300px"/>
+
+</div>
 
 <br/>
 <div align="center">
