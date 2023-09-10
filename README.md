@@ -1,3 +1,74 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  
+Olá, Eu sou <strong>Eduardo Mello!</strong>
+<br>Dev Web FullSatck
+  
+Sou Dev apaixonado por tecnologia, casado e pai de três princesas. Intusiasta em ver tecnologia em tudo, tenho uma vontade de transformar o meu entorno com a tecnologia!
+Outra paixão é aprender, estou sempre buscando um novo conhecimento. No momento olho para o aperfeiçoamento em Java de forma assincrona, aprendendo o Spring Web Flux.
+Espero poder somar com a comunidade Tech sempre!!
+</p>
+
+<br>
+
+<br>
+
+<div align="center">
+  
+  <strong>Tecnologias:</strong>
+  
+  Backend:
+  
+  ![Static Badge](https://img.shields.io/badge/-Java-%23000?logo=openjdk)
+  ![Static Badge](https://img.shields.io/badge/-Springboot-%23000?logo=springboot)
+  ![Static Badge](https://img.shields.io/badge/-NodeJS-%23000?logo=nodedotjs)
+  ![Static Badge](https://img.shields.io/badge/-Python-%23000?logo=python)
+
+  Utilidades:
+
+  ![Static Badge](https://img.shields.io/badge/-Postman-%23FF6C37?logo=postman&labelColor=black&color=black)
+  
+Frontend:
+
+  ![Static Badge](https://img.shields.io/badge/-HTML5-%23000?logo=html5)
+  ![Static Badge](https://img.shields.io/badge/-CSS3-%23000?logo=css3)
+  ![Static Badge](https://img.shields.io/badge/-Javascript-%23000?logo=javascript)
+  ![Static Badge](https://img.shields.io/badge/-ReactJS-%23000?logo=react)
+  
+Banco de dados:
+
+  ![Static Badge](https://img.shields.io/badge/-MySQL-%23000?logo=mysql)
+  ![Static Badge](https://img.shields.io/badge/-MongoDB-%23000?logo=mongodb)
+
+</div>
+
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>
+
+
 # Olá, Eu sou Eduardo Mello!
 ### Dev Web FullSatck
   
