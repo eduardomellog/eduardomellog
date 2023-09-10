@@ -12,9 +12,7 @@ Espero poder somar com a comunidade Tech sempre!!
 
 <br>
 
-<br>
-
-<div align="center">
+<p align="center">
   
   <strong>Tecnologias:</strong>
   
@@ -27,7 +25,7 @@ Espero poder somar com a comunidade Tech sempre!!
 
   Utilidades:
 
-  ![Static Badge](https://img.shields.io/badge/-Postman-%23FF6C37?logo=postman&labelColor=black&color=black)
+  ![Static Badge](https://img.shields.io/badge/-Postman-%23000?logo=postman)
   
 Frontend:
 
@@ -41,83 +39,23 @@ Banco de dados:
   ![Static Badge](https://img.shields.io/badge/-MySQL-%23000?logo=mysql)
   ![Static Badge](https://img.shields.io/badge/-MongoDB-%23000?logo=mongodb)
 
-</div>
+DevOps
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  ![Static Badge](https://img.shields.io/badge/-Git-%23000?logo=git)
+  ![Static badge](https://img.shields.io/badge/-GitHub-%23000?logo=github)
+
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>
-
-
-# Olá, Eu sou Eduardo Mello!
-### Dev Web FullSatck
-  
-Dev por paixão a tecnologia, casado e pai de três princesas. Intusiasta em ver tecnologia em tudo, tenho uma vontade de transformar o meu entorno com a tecnologia!
-Sou apaixonado pelo aprendizado, estou sempre aprendendo algo novo. No momento olhando para o paerfeiçoamento em Java de forma assincrona, aprendendo o Spring Web Flux.
-Espero poder somar com a comunidade Tech sempre, Obrigado a comunidade DIO por me receber tão bem!
-
-<div align="center">
-  
-<img src="https://github.com/eduardomellog/eduardomellog/assets/93284927/6a88ebfe-caf7-4487-8c92-e720a1eb936e" width="300px"/>
-
-</div>
+<img src="https://github.com/eduardomellog/eduardomellog/assets/93284927/6a88ebfe-caf7-4487-8c92-e720a1eb936e" min-width="400px" max-width="400px" width="400px" align="right"/>
 
 <br/>
 <div align="center">
-<h2> 🧑‍💻 Github Stats 🧑‍💻 </h2>
+<h2> Github Stats </h2>
 </div>
 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardomellog&theme=dracula&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff6e96&text_color=FFF)
-
-</div>
-
-<br/>
-<div align="center">
-<h2> 🥇 Tech's mais utilizadas 🥇 </h2>
-</div>
-
-<div align="center">
-  
-Backend:
-  
-  ![Static Badge](https://img.shields.io/badge/-Java-%23000?logo=openjdk)
-  ![Static Badge](https://img.shields.io/badge/-Springboot-%23000?logo=springboot)
-  ![Static Badge](https://img.shields.io/badge/-NodeJS-%23000?logo=nodedotjs)
-  ![Static Badge](https://img.shields.io/badge/-Python-%23000?logo=python)
-  
-Frontend:
-
-  ![Static Badge](https://img.shields.io/badge/-HTML5-%23000?logo=html5)
-  ![Static Badge](https://img.shields.io/badge/-CSS3-%23000?logo=css3)
-  ![Static Badge](https://img.shields.io/badge/-Javascript-%23000?logo=javascript)
-  ![Static Badge](https://img.shields.io/badge/-ReactJS-%23000?logo=react)
-  
-Banco de dados:
-
-  ![Static Badge](https://img.shields.io/badge/-MySQL-%23000?logo=mysql)
-  ![Static Badge](https://img.shields.io/badge/-MongoDB-%23000?logo=mongodb)
 
 </div>
 
@@ -131,7 +69,7 @@ Banco de dados:
 
 <br/>
 <div align="center">
-<h2> 🌐 Principais Repositórios 🌐 </h2>
+<h2> Principais Repositórios </h2>
 </div>
 
 ### Bluefood
@@ -151,7 +89,7 @@ Frontend com React Hook's citado acima.
 
 <br/>
 <div align="center">
-<h2> 📱 Resumo 📱 </h2>
+<h2> Resumo </h2>
 </div>
 
 <div align="center">
@@ -162,21 +100,25 @@ Frontend com React Hook's citado acima.
 
 <br/>
 <div align="center">
-<h2>🔗 Entre em contato comigo 🔗</h2>
+<h2> Entre em contato comigo </h2>
 </div>
 
 <div>
-Abaixo seguem os link's para você entrar em contato comigo, tirar alguma dúvida, fazer networking, fazer convite para algum projeto ..
+
+  Abaixo seguem os link's para você entrar em contato comigo, tirar alguma dúvida, fazer networking, fazer convite para algum projeto ..
+
 </div>
+
 <br/>
 
+<div align="center">
+
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://www.facebook.com/eduardomellog/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/deveduardo/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deveduardomello/)
-
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=whatsapp)](https://contate.me/deveduardomello)
+
+</div>
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
