@@ -46,7 +46,7 @@ DevOps
 
 </p>
 
-<img src="https://github.com/eduardomellog/eduardomellog/assets/93284927/6a88ebfe-caf7-4487-8c92-e720a1eb936e" min-width="400px" max-width="400px" width="400px" align="right"/>
+<img src="https://github.com/eduardomellog/eduardomellog/assets/93284927/6a88ebfe-caf7-4487-8c92-e720a1eb936e" min-width="350px" max-width="350px" width="350px" align="right"/>
 
 <br/>
 <div align="center">
